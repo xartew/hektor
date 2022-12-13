@@ -9,7 +9,7 @@
     "client": "0.0.1",
     "common-tags": "^1.8.0",
     "discord.js": "^11.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg": "0.0.4",
     "figlet": "^1.4.0",
     "find": "^0.3.0",
